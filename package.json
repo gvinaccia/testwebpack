@@ -1,0 +1,21 @@
+{
+  "name": "testwebpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "webpack-dev-server --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.5.5",
+    "angular-ui-router": "^0.2.18",
+    "ts-loader": "^0.8.2",
+    "typescript": "^1.8.10",
+    "typings": "^0.8.1",
+    "webpack": "^1.13.0",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
